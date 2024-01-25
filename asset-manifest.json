@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-diary-sravani/static/css/main.17c61913.css",
+    "main.js": "/food-diary-sravani/static/js/main.bd23a252.js",
+    "static/js/787.002e64fc.chunk.js": "/food-diary-sravani/static/js/787.002e64fc.chunk.js",
+    "index.html": "/food-diary-sravani/index.html",
+    "main.17c61913.css.map": "/food-diary-sravani/static/css/main.17c61913.css.map",
+    "main.bd23a252.js.map": "/food-diary-sravani/static/js/main.bd23a252.js.map",
+    "787.002e64fc.chunk.js.map": "/food-diary-sravani/static/js/787.002e64fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c61913.css",
+    "static/js/main.bd23a252.js"
+  ]
+}
